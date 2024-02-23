@@ -4,7 +4,13 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 
 function App() {
-  return <div className="app">this is the first commit</div>;
+  return (
+    <div className="app">
+      this is the first commit
+      <p>dzloo sll</p>
+      <as></astag>
+    </div>
+  );
 }
 
 export default App;
