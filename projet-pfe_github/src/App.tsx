@@ -6,9 +6,14 @@ import "./App.css";
 function App() {
   return (
     <div className="app">
-      this is the first commit
+      <p>{'this is the first commit'}</p>
       <p>dzloo sll</p>
-      <as></astag>
+      <a>new link </a>
+      <div>
+        <article>
+          
+        </article>
+      </div>
     </div>
   );
 }
